@@ -1,4 +1,4 @@
-# UTS Workshop App Flutter
+# UTS Mobile Programing
 
 Aplikasi sederhana untuk menampilkan daftar workshop kampus.
 
