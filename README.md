@@ -1,16 +1,15 @@
-# workshop_app
+# UTS Workshop App Flutter
 
-A new Flutter project.
+Aplikasi sederhana untuk menampilkan daftar workshop kampus.
 
-## Getting Started
+## Fitur
+- Menampilkan daftar workshop
+- Informasi tanggal, lokasi, kuota
+- Tombol daftar
 
-This project is a starting point for a Flutter application.
+## Teknologi
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Tri Rajunito
