@@ -6,6 +6,7 @@ Aplikasi sederhana untuk menampilkan daftar workshop kampus.
 - Menampilkan daftar workshop
 - Informasi tanggal, lokasi, kuota
 - Tombol daftar
+- Mode Gelap Dan Terang
 
 ## Teknologi
 - Flutter
